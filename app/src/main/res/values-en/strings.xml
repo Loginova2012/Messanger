@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Messanger</string>
+    <string name="name1">Sherlok</string>
+    <string name="message1">Hello</string>
+    <string name="name2">Hadson</string>
+    <string name="nessage2">Buy</string>
+    <string name="name3">Mikeroft</string>
+    <string name="message3">Sun</string>
+</resources>
